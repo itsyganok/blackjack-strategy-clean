@@ -1,0 +1,33 @@
+{
+  "name": "blackjacjproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsyganok/blackjack-strategy-clean.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsyganok/blackjack-strategy-clean/issues"
+  },
+  "homepage": "https://github.com/itsyganok/blackjack-strategy-clean#readme",
+  "description": "",
+  "dependencies": {
+    "next": "^15.2.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.17",
+    "@types/react": "^19.0.12",
+    "typescript": "^5.8.2"
+  }
+}
